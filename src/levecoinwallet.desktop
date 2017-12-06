@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Levecoin Wallet
+Comment=Levecoin wallet
+Exec=levecoinwallet %U
+Terminal=false
+Type=Application
+Icon=levecoin
+MimeType=x-scheme-handler/levecoin;
+Categories=Office;Finance;
